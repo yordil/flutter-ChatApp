@@ -1,5 +1,3 @@
-Here’s a regenerated version of the README:  
-
 ---
 
 # Flutter Chat App
