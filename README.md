@@ -16,7 +16,7 @@ A real-time chat application built using **Flutter** and **Firebase**, providing
   Search for users to initiate new conversations.  
 
 - **File Sharing (UI Placeholder)**  
-  The app includes a file-sharing feature in the UI, though its functionality is not yet implemented.  
+  The app includes a file-sharing feature in the UI, but due to S3 limit it is not working
 
 ## Tech Stack
 
